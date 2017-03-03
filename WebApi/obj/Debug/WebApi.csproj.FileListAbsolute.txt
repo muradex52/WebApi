@@ -1,0 +1,14 @@
+C:\dev\cs\WebApi\WebApi\bin\WebApi.dll.config
+C:\dev\cs\WebApi\WebApi\bin\WebApi.dll
+C:\dev\cs\WebApi\WebApi\bin\WebApi.pdb
+C:\dev\cs\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\dev\cs\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\dev\cs\WebApi\WebApi\bin\System.Web.Http.dll
+C:\dev\cs\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\dev\cs\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\dev\cs\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\dev\cs\WebApi\WebApi\bin\System.Web.Http.xml
+C:\dev\cs\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\dev\cs\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\dev\cs\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\dev\cs\WebApi\WebApi\obj\Debug\WebApi.pdb
